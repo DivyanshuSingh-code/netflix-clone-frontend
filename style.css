@@ -1,0 +1,165 @@
+*{
+   background-color: #f0f0f0;
+    background-image: linear-gradient(rgba(0.1, 0, 0, 0.5), rgba(0.1, 0, 0, 0.5)), url(https://xboxwire.thesourcemediaassets.com/sites/2/2023/05/Background-size1920x1080-4e1694a6-75aa-4c36-9d4d-7fb6a3102005-bc5318781aad7f5c8520.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges; 
+    image-rendering: pixelated;
+}
+
+#container{
+    height: 250px;
+    width: 100%;
+}
+
+#logo{
+    position: relative;
+    top: 15px;
+    left: 143px;
+}
+
+.logo-img{
+    height: 40px;
+}
+
+div{
+    display: inline;
+}
+
+#optionbutton{
+    position: relative;
+    top: 0px;
+    left: 950px;
+    display: inline;
+}
+
+.language{
+    font-family: 'Netflix Sans', 'Helvetica Neue', Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-weight: normal;
+    color: white;
+    font-size: 1.0rem;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    background-color: transparent;
+    border: 1.5px solid rgba(164, 163, 163, 0.658);
+    border-radius: 5px;
+}
+
+.signin{
+     font-family: 'Netflix Sans', 'Helvetica Neue', Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 1.0rem;
+    background-color: red;
+    border: 8%;
+    border-color: red;
+    border-radius: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#center{
+    position: relative;
+    top: 100px;
+    left: 20px;
+}
+
+#center-up{
+    position: relative;
+    top: 20px;
+    left: 0px;
+    text-align: center;   
+}
+
+.bold{
+    font-family: 'Netflix Sans', 'Helvetica Neue', Segoe UI, Roboto, Ubuntu, sans-serif;
+    letter-spacing: -0.02em;
+    line-height: 125%;
+    font-weight: 900;
+    font-size: 3.5rem;
+    color: white;
+}
+
+.text{
+     font-family: 'Netflix Sans', 'Helvetica Neue', Segoe UI, Roboto, Ubuntu, sans-serif;
+    letter-spacing: -0.01em;
+    font-weight: 800;
+    font-size: 1.2rem;
+    color: white;
+}
+
+#center-mid{
+    position: relative;
+    top: 28px;
+    left: 0px;
+    text-align: center;   
+}
+
+.small-text{
+    font-family: 'Netflix Sans', 'Helvetica Neue', Segoe UI, Roboto, Ubuntu, sans-serif;
+    letter-spacing: -0.01em;
+    font-weight: 700;
+    font-size: 1.0rem;
+    color: white;
+}
+
+#center-down{
+    position: relative;
+    top: 40px;
+    left: 445px;
+    text-align: center;   
+}
+
+.email{
+    font-family: 'Netflix Sans', 'Helvetica Neue', Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-weight: 700;
+    position: relative;
+    color: rgb(187, 187, 187);
+    font-size: 1.1rem;
+    padding-right: 125px;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    background-color: transparent;
+    border: 1.6px solid rgba(233, 230, 230, 0.507);
+    border-radius: 5px;
+}
+
+.getstarted{
+     font-family: 'Netflix Sans', 'Helvetica Neue', Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-weight: bolder;
+    color: white;
+    font-size: 1.5rem;
+    padding-right: 20px;
+    padding-left: 22px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgb(229, 9, 20);
+    border: 8%;
+    border-color: rgb(229, 9, 20);
+    border-radius: 5px;
+}
+
+#foot{
+    position: relative;
+    top: 250px;
+    background-color: black;
+    color: red;
+    font-weight: 700;
+}
+
+#links{
+    text-decoration: none;
+}
+
+
+
+
+
